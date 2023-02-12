@@ -37,10 +37,23 @@ dependencies:
   cupertino_icons: ^1.0.2
   sqflite: ^2.2.4+1
   path: ^1.8.2
+  provider: ^6.0.5
+  intl: ^0.18.0
+  fl_chart: ^0.60.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+  flutter_launcher_icons_maker: "^0.10.1"
+
+flutter_icons:
+  android: true
+  ios: true
+  macos: true
+  windows: true
+  web: true
+  image_path: "assets/icons/logo.png"
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
