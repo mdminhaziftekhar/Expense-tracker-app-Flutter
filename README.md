@@ -1,6 +1,6 @@
 # expense_tracker
 
-This is a personal financial helper app. It helps the users to track their daily expenses and helps them to have a better life.
+This is a personal financial helper app. It helps the users to track their daily expenses and helps them to have a better life. I've used Flutter,  Sqflite for database, provider for state management and Fl_chart for charts
 
 # Install from here : 
 https://drive.google.com/drive/folders/1uBGg78tVTJEJCO9FucGCwue0uJhrWWSh?usp=sharing
